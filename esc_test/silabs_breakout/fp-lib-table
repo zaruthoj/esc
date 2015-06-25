@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name esc)(type KiCad)(uri /home/jrparker/electronics/esc/esc.pretty)(options "")(descr ""))
+)
